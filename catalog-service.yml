@@ -1,3 +1,6 @@
+server:
+  port: 8091
+
 catalog:
   message: Hello from catalog-service.yml
   version: 1.0
