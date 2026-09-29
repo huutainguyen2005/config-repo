@@ -1,5 +1,5 @@
 server:
-  port: 8091
+  port: 8092
 
 spring:
   datasource:
@@ -37,4 +37,4 @@ logging:
 
 catalog:
   message: Hello from catalog-service.yml
-  version: 1.0
+  version: 2.0
